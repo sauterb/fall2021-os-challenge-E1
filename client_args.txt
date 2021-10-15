@@ -1,0 +1,3 @@
+./client hostname port seed total start difficulty rep delay lambda 
+./client localhost 9002 0 1 0 1 0 100 0
+[correct_bool number_sent number_received priority] latency(us)
